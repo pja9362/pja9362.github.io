@@ -4,4 +4,5 @@ My personal homepage including introduction, skills, education, achievements and
 
 You can see my homepage here : https://pja9362.github.io/
 
-<img width="452" alt="image" src="https://github.com/pja9362/pja9362.github.io/assets/80195979/1e5930d5-1136-4f35-b829-4a3ff78c0688">
+<img width="1244" alt="스크린샷 2023-05-28 오후 9 59 39" src="https://github.com/pja9362/pja9362.github.io/assets/80195979/7eebf8fd-9d92-44d0-9e3d-143ed179394b">
+
